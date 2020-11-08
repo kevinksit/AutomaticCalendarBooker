@@ -6,7 +6,7 @@ import time
 
 class CalendarManager:
     def __init__(self):
-        self.booker = Booker('ucsb.edu_sj35l06299ha3d7v1a0oarfml8@group.calendar.google.com'); #  this is the calendar_id for Room 6164
+        self.booker = Booker('PUT YOUR CALENDAR HERE'); #  this is the calendar_id for Room 6164
         self.registry = Registry()
 
     def checkInput(self, input_char):
