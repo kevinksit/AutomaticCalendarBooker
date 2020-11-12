@@ -17,3 +17,5 @@ To set this up, we first need to get access to the Google Calendar API and downl
 4. On first run, a browser window will open and prompt you to login to the account that has access to the calendar, and create a `token.pickle`.
 
 ## Usage
+
+Developed by KS
