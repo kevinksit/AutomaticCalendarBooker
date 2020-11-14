@@ -24,6 +24,7 @@ When booking a time, the manager will book the next available 15 minute slot on 
 3. Run the script `python CalendarManager.py`
 4. On the first run, a browser window will open and prompt you to login to an account which has access to your calendar, and save `token.pickle`.
 5. Because a "user registry" does not exist, a `registry.pickle` will automatically be created to hold usernames and the corresponding keys. `registry.pickle` is just a Python dictionary that's saved
+6. Go to Step 2 of General Usage Instructions
 
 ### General usage instructions
 1. Run `python CalendarManager.py`
